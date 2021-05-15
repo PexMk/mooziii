@@ -9,4 +9,4 @@
 - ⚡ Fun fact: idk
 
 ![](https://i.imgur.com/Qxzx84M.png)
-![](https://i.imgur.com/mJqogRN.png)
+
