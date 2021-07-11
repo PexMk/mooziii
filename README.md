@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a fabric mod.
+- 🔭 I’m currently working on a survival server for hglabor.de
 - 🌱 I’m currently learning fabric
 - 🤔 I’m looking for help with mixins
 - 💬 Ask me about Spigot
