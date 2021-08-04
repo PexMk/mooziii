@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/mooziii/mooziii/main/img/banner.jpeg)
+
 
 ### `println("Hello World! 👋")` 
 
