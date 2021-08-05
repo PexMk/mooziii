@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on a survival server for [hglabor.de](https://github.com/HGLabor)
 - 🌱 I’m currently learning [fabric](https://fabricmc.net)
-- 🤔 I’m looking for help with packets
 - 💬 Ask me about Spigot
 - 📫 How to reach me: [discord](http://de.spongepedia.org/images/MrwasgehtdasanFuehrerschein.jpg)
 - ⚡ Fun fact: I use [manjaro linux](https://manjaro.org)
