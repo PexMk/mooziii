@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [hglabor.lol](https://github.com/HGLabor)
 - 🧻 I’m currently learning [paperweight](https://github.com/PaperMC/paperweight)
-- 💬 Ask me about Spigot
+- 💬 Ask me about █████
 - 📫 How to reach me: [discord](http://de.spongepedia.org/images/MrwasgehtdasanFuehrerschein.jpg)
 - ⚡ Fun fact: I use(d) [manjaro linux](https://manjaro.org)
 
