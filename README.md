@@ -2,7 +2,7 @@
 
 ### `println("Hello World! 👋")` 
 
-- 🔭 I’m currently coding for [hglabor.de](https://github.com/HGLabor)
+- 🔭 I’m currently coding for [NQRMAN](https://www.youtube.com/c/NQRMAN)
 - 😄 I mostly do stuff in minecraft but sometimes i do some crazy shit using ktor
 - 💜 I love [kotlin](https://kotlinlang.org)
 - 📫 How to reach me: [(click me)](http://de.spongepedia.org/images/MrwasgehtdasanFuehrerschein.jpg)
